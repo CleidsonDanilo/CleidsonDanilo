@@ -52,9 +52,3 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de softwar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://linkedin.com/in/cleidson-danilo-dev)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/cleidsondanilo18)
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CleidsonDanilo)
-
-## 📚 Projetos em Destaque
-- [**Projeto 1**](https://cleidsondanilo.github.io/verificar-turno/): Site para lhe deseja um bom turno do dia
-
-##
-Obrigado por visitar o meu perfil! 😊
