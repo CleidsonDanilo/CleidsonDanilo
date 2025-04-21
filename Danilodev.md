@@ -7,6 +7,8 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de softwar
 
 ## 🚀 Sobre Mim
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript,Python, Node.js, Python, Git e Git GitHub]**.
+- 💻 Estudante de **Analise e desenvolviento de software** na Uninassa Recife | PE
+- 🎓 Formação **Tecnica em Informatica** no Senai Recife | PE
 - 💡 Tenho interesse em **[áreas de interesse, Front-end , Web Desener, Desenvolvedor de aplicativos e softwares]**.
 - 📫 Como me encontrar: [cleidsondanilo18@gmail.com]
 
